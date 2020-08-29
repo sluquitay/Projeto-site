@@ -4,14 +4,18 @@
 }
 
 body {
-    background-color: rgb(255, 0, 0);
+    background-color:white
 
 }
 
-main{
-background-color: blueviolet;
+background-color: white;
 width: 500px;
 margin: auto;
 padding: 10px;
 box-shadow: 3px 3px 5px black;
 }
+
+img.lado{
+    float: right;
+}
+main{
